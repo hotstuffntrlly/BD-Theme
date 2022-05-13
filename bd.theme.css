@@ -7,7 +7,121 @@
 
 :root{
     --theme-background-image: url(https://64.media.tumblr.com/tumblr_m4b0ycTaj51qi2adeo1_500.gifv);
+
     --main-theme-color: rgb(128, 0, 0);
+
     --theme-transparency:rgba(0, 0, 0, 0.8);
-    --home-icon-image: url()
+
+    --home-icon-image: url(https://media1.giphy.com/media/NoNBVYHN20kF2/giphy.gif?cid=ecf05e47y66qghi8antdly914q8xada78cn0jota1n4hjhom&rid=giphy.gif&ct=g);
+
+    --home-icon-image-position: center center;
+
+    --home-icon-image-zoom: 100%;
+
+    --server-listing-width:72px;
+
+    --font-size: 100%;
+
+    --mention-color: rgba(45, 69, 128, 0.5);
+
+    --mention-sider: rgba(128, 0, 0, 1);
+
+    --mention-hover-color: rgba(0, 69, 128, 0.08);
+
+    --category-hover-color: rgb(45, 69, 128);
+
+    --unread-server-animation: none;
+
+    --video-screen-button-background-color: rgba(108, 45, 69, 0.2);
+
+    --video-screen-button-foreground-color: white;
+
+    --video-screen-button-background-hover-color: rgba(108, 45, 69, 0.4);
+
+    --video-screen-button-foreground-hover-color: white;
+
+    --member-listing-role-color: var(--main-theme-color);
+
+    --small-user-popout-background-image: url(https://media3.giphy.com/media/xUPGcIJKL7XnQSW2vC/giphy.gif?cid=ecf05e47ygqnmt6aqwvrulam7ov3e2mspby4aunxh4celawv&rid=giphy.gif&ct=g);
+
+    --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+
+    --small-user-popout-image-position: center;
+
+    --big-user-popout-background-image: url(https://media1.giphy.com/media/VtBS7Vvb1YiteCGgZ8/giphy.gif?cid=ecf05e47r2i4gor5jgsxv7x5518vczlqjrvln8vg4ootsc9i&rid=giphy.gif&ct=g);
+
+    --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+
+    --big-user-popout-background-image-position: center;
+
+    --code-markup-background-color: rgba(0, 0, 0, 0.6);
+
+    --code-markup-border: 1px solid transparent;
+
+    --message-box-transparency: rgba(0, 0, 0, 0.6);
+
+    --embed-background-transparency: rgba(0, 0, 0, 0.6);
+
+    --message-hover-buttons-background: rgba(108, 45, 69, 0.1);
+
+    --context-menu-transparency: rgba(45, 69, 32, 0.8);
+
+    --add-discover-icon-transparency: rgba(105, 45, 69, 0.15);
+
+    --add-discover-icon-color: #800080;
+
+    --channel-limit-count-color: var(--channels-default);
+
+    --channel-limit-background-left: rgba(108, 45, 69, 0.1);
+
+    --channel-limit-background-right: rgba(108, 45, 69, 0.2);
+
+    --scrollbar-color: rgba(108, 45, 69, 0.2);
+
+    --unread-message-divider-color: #804569;
+
+    --unread-message-divider-font-color: #fff;
+
+    --new-messages-bar-background-color: #804569;
+
+    --new-messages-bar-font-color: #fff;
+
+    --emoji-menu-background-color: rgba(0, 0, 0, 0.6);
+
+    --emoji-menu-sider-background-color: rgba(0, 0, 0, 0);
+
+    --emoji-menu-server-header-background-color: rgba(0, 0, 0, 0.8);
+
+    --emoji-menu-bottom-bar-background-color: black;
+
+    --emoji-menu-search-bar-background-color: rgba(108, 45, 69, 0.1);
+
+    --message-search-menu-background-color: rgba(0, 0, 0, 0.8);
+
+    --message-search-container-background-color: rgba(0, 0, 0, 0.6);
+
+    --message-search-result-background-color: rgba(108, 45, 69, 0.05);
+
+    --text-voice-channel-color: rgb(128, 45, 69);
+
+    --text-voice-channel-hover-color: #dcddde;
+
+    --text-voice-channel-selected-text-color: #fff;
+
+    --unread-text-channel-color: #fff;
+
+    --unread-text-channel-bubble-color: var(--main-theme-color);
+
+    --folder-background-color: #804569;
+
+    --expanded-folder-background-color: transparent;
+
+    --reaction-emoji-background-color: rgba(0, 0, 0, 0);
+
+    --reaction-emoji-border-color: 1px solid transparent;
+
+    --reaction-emoji-hover-background-color: rgba(128, 0, 0, 0.1);
+
+    --reaction-emoji-hover-border-color: rgba(128, 0, 0, 0.2);
+
 }
