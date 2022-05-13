@@ -1,0 +1,13 @@
+/**
+* @name Weeaboo Heaven
+* @author Alex A.
+* @description A cool theme with anime/manga characters as the background
+* @version 0.0.1
+*/
+
+:root{
+    --theme-background-image: url(https://64.media.tumblr.com/tumblr_m4b0ycTaj51qi2adeo1_500.gifv);
+    --main-theme-color: rgb(128, 0, 0);
+    --theme-transparency:rgba(0, 0, 0, 0.8);
+    --home-icon-image: url()
+}
